@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="burp_learn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/burp_learn_jar</output-path>
+    <root id="archive" name="burp_learn.jar">
+      <element id="module-output" name="burp_learn" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/portswigger/burp/extender/burp-extender-api/2.1/burp-extender-api-2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
