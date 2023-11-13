@@ -1,1 +1,1 @@
-# Directory_Traversal_vulCheck by sb@akulaku.com
+# Directory_Traversal_vulCheck
